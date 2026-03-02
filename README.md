@@ -1,3 +1,4 @@
+
 \# Workshop 1 — Ingestion with dlt (Data Engineering Zoomcamp 2026)
 
 
@@ -112,3 +113,6 @@ Summing the tip_amount column across all trips gives:Total tips = $8,063.41
 
 
 
+
+# de-zoomcamp-hw6
+e2da7a33b22bb21ffeb9cb36c776b3e35c7614df
